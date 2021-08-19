@@ -1,0 +1,87 @@
+h1{
+    text-transform: uppercase;
+    color: aquamarine;
+    text-align: center;
+    font-family: 'Style Script', cursive;
+}
+h2{
+    font-family: 'Palette Mosaic', cursive;
+font-family: 'Style Script', cursive;
+text-align: center;
+}
+
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+
+
+.font-anton{
+    font-family: 'Anton', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Style Script', cursive;
+background-color: rgb(129, 98, 230);
+text-align: center;
+margin-top: 90px;
+}
+.font-anton:hover{
+    background-color: salmon;
+}
+h3{
+    font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Style Script', cursive;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.Josefin-Sans{
+    font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Style Script', cursive;
+text-align: center;
+background-color: skyblue;
+}
+.Josefin-Sans:hover{
+    color: slateblue;
+    background-color: springgreen;
+}
+.Space-Mono{
+font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Space Mono', monospace;
+font-family: 'Style Script', cursive;
+background-color: yellow;
+color: rgb(51, 0, 255);
+text-align: center;
+margin-top: 50px;
+}
+.Space-Mono:hover{
+    background-color: violet;
+    color: white;
+}
+.Teko{
+    font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Palette Mosaic', cursive;
+font-family: 'Space Mono', monospace;
+font-family: 'Style Script', cursive;
+font-family: 'Teko', sans-serif;
+background-color: tomato;
+text-align: center;
+color: rgb(51, 0, 255);
+margin-top: 50px
+}
+.Teko:hover{
+    background-color: rosybrown;
+    color: seashell;
+}
